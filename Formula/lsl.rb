@@ -6,6 +6,6 @@ class Lsl < Formula
   version "0.1.2"
 
   def install
-    bin.install "aaaa"
+    bin.install "lsl"
   end
 end
